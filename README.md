@@ -11,3 +11,6 @@ This project analyzes COVID-19 data using Python and Tableau. It involves explor
 <img src="https://github.com/pprachi15/introduction/assets/116032314/0966de8a-4ee7-4539-87a3-b80197160a75" width="80" height="80" />      <!-- Jupyter -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/7b46ae33-acdf-4e06-8e26-e530da1f9133" width="70" height="70" />        <!-- VS Code -->
 <img src="https://github.com/pprachi15/introduction/assets/116032314/62f457ca-c230-4507-b841-057a6d65099c" width="90" height="90" />     <!-- Tableau  -->
+
+
+<img width="1133" alt="picx" src="https://github.com/pprachi15/COVID-19.Data.Analysis/assets/116032314/ba0da9a2-c652-4cdc-9318-1a6b1a49848f">
